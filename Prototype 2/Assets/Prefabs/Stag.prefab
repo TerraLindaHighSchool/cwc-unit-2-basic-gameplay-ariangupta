@@ -821,6 +821,7 @@ GameObject:
   - component: {fileID: 2497633937558086192}
   - component: {fileID: 2497633937565383032}
   - component: {fileID: 2497633937015966868}
+  - component: {fileID: -3168105224121072378}
   m_Layer: 0
   m_Name: Stag
   m_TagString: Untagged
@@ -884,3 +885,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
+--- !u!65 &-3168105224121072378
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2497633937558043846}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.560293, y: 0.86472464, z: 0.90617007}
+  m_Center: {x: 0.21985349, y: -0.067638226, z: 0.29498926}
